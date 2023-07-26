@@ -2,9 +2,9 @@
 
 ## Webstudio Design Files
 
-Our design system and component library lives here in the [Webstudio Library](https://www.figma.com/file/sfCE7iLS0k25qCxiifQNLE/%F0%9F%93%9A-Webstudio-Library?type=design&node-id=0%3A1&mode=design&t=rBL8kvu00c1KjbnC-1)
+Our design system and component library lives here in the [Webstudio Library](https://www.figma.com/file/sfCE7iLS0k25qCxiifQNLE/%F0%9F%93%9A-Webstudio-Library?type=design&node-id=2647%3A10046&mode=design&t=D3OMdUnCjvXF1DpS-1)
 
-Our feature designs and documentation are here in the [Webstudio Design Docs](https://www.figma.com/file/xCBegXEWxROLqA1Y31z2Xo/%F0%9F%93%96-Webstudio-Design-Docs?type=design&node-id=5774%3A74974&mode=design&t=MKub8DhVDKppO9ac-1)
+Our feature designs and documentation are here in the [Webstudio Design Docs](https://www.figma.com/file/xCBegXEWxROLqA1Y31z2Xo/%F0%9F%93%96-Webstudio-Design-Docs?type=design&node-id=234%3A36754&mode=design&t=lLTAVhpeQeepQoOq-1)
 
 ## Contribute to Webstudio's UI Design
 
