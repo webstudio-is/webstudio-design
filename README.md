@@ -1,4 +1,4 @@
-# Webstudio design docs and assets
+# Webstudio Design Docs and Assets
 
 Assets, documents and guidelines specific to Webstudio brand and all products.
 
