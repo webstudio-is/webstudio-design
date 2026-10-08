@@ -2,7 +2,7 @@
 
 ## Pull request task tracking
 
-When the user gives a task associated with a pull request, record it in that PR's description checklist immediately, before implementation. Keep the checklist status accurate as work progresses; mark an item complete only after its result is verified.
+Before implementing any repository task the user assigns, record it in the relevant pull request's description checklist, even if the user did not name a PR or frame the request as PR work. If multiple PRs are affected, add the task to each relevant PR. For repository work not yet associated with a PR, identify or create the intended PR before implementation. This applies to code and documentation work; read-only research and conversational tasks do not require a PR unless they lead to repository changes. Keep checklist status accurate as work progresses; mark an item complete only after its result is verified.
 
 ## User-facing copy
 
